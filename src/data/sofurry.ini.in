@@ -1,0 +1,18 @@
+[ScopeConfig]
+_DisplayName=Sofurry Scope
+_Description=This is a Sofurry scope
+Art=screenshot.png
+Author=Firstname Lastname
+Icon=icon.png
+Keywords=weather
+
+[Appearance]
+PageHeader.Logo=https://wiki.sofurry.com/sfwiki.png
+#PageHeader.Background = gradient:///#2D2d2d/#34495E
+#PageHeader.ForegroundColor = #FFFFFF
+PageHeader.DividerColor = #BF2E9B
+#BackgroundColor = #555555
+PreviewButtonColor = #BF2E9B
+#ForegroundColor = #000000
+#PageHeader.NavigationBackground = color:///#2D3E50
+

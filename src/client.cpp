@@ -308,7 +308,7 @@ Client::SearchRes Client::search_daily(const std::string &query) {
     // The second parameter forms the CGI parameters.
     get( { "browse", "search"}, { {"search", query}, { "format", "json" }
          }, root);
-    // https://api2.sofurry.com/browse/search?search=dildo&format=json
+    // https://api2.sofurry.com/browse/search?search=wolf&format=json
 
     SearchRes result;
 
